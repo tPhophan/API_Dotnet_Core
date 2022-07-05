@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vwY5S1OCeKmgKFDQqPj19xV+Qw+1D0zXmKzHVs1cfabUswUcc+/PP5hc8p4fnT4zvlDHmpgv8dgVkvi+cy9YmA==",
+  "dgSpecHash": "x4q4r2Sd/itmv1DJA20NSc8GhtHf1uD9JRd+bgNJWYc4Vn6M+fEvUprztU3mbF2cy79aRgS5amQEwD5R3eiVCQ==",
   "success": true,
-  "projectFilePath": "D:\\Login React Bootstrap\\login-test\\src\\api\\webAPI\\webAPI\\webAPI.csproj",
+  "projectFilePath": "D:\\API-Dotnet-Core\\webAPI\\webAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tossa\\.nuget\\packages\\microsoft.aspnetcore.cors\\2.2.0\\microsoft.aspnetcore.cors.2.2.0.nupkg.sha512",
     "C:\\Users\\tossa\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
