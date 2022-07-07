@@ -23,7 +23,7 @@ if (app.Environment.IsDevelopment())
 app.UseAuthorization();
 
 //Allowed UserCORS
-app.UseCors(c => c.AllowAnyHeader().AllowAnyMethod().AllowAnyOrigin());
+app.UseCors(c => c.WithOrigins("*").AllowAnyHeader().AllowAnyMethod());
 
 app.MapControllers();
 
